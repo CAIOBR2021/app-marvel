@@ -1,0 +1,30 @@
+
+.footer {
+    background-color: #151515;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    align-items: center;
+    height: 213px;
+    color: #5D5D5D;
+    background-image: url(../../../public/images/Spiderman-Web-PNG-Clipart.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+
+}
+
+.footer .redes {
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+}
+.footer .texto {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.footer .marvel {
+    width: 250px;
+}
